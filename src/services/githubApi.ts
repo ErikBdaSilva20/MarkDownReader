@@ -3,7 +3,7 @@
  */
 
 const GITHUB_REPO_OWNER = process.env.NEXT_PUBLIC_GITHUB_REPO_OWNER || 'ErikBdaSilva20';
-const GITHUB_REPO_NAME = process.env.NEXT_PUBLIC_GITHUB_REPO_NAME || 'MarkDownReader';
+const GITHUB_REPO_NAME = process.env.NEXT_PUBLIC_GITHUB_REPO_NAME || 'Aprendizado_Dos_Projetos';
 const GITHUB_BRANCH = process.env.NEXT_PUBLIC_GITHUB_BRANCH || 'master';
 const GITHUB_BASE_URL = 'https://api.github.com';
 const GITHUB_RAW_URL = 'https://raw.githubusercontent.com';
